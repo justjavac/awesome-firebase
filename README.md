@@ -13,6 +13,10 @@ Firebase 是一个数据同步的云服务，不同于 Dropbox 的「文件」�
 
 或许我翻译的另一个项目你也敢兴趣：[用 JSON 构建 API 的标准指南](https://github.com/justjavac/json-api-zh_CN)
 
+## 开源版本
+
+- [end.js](https://github.com/demohi/end)
+
 ## 文章
 
 - [用AngularJS和Firebase制作一个实时投票应用](http://www.html-js.com/article/Using-Angular-to-develop-web-application-with-AngularJS-and-Firebase-to-produce-a-real-time-polling-application)
