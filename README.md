@@ -8,6 +8,7 @@ Firebase 相关文章的索引。
 ## 文章
 
 - [用AngularJS和Firebase制作一个实时投票应用](http://www.html-js.com/article/Using-Angular-to-develop-web-application-with-AngularJS-and-Firebase-to-produce-a-real-time-polling-application)
+- [(30 hackdays day 1) Firebase – Rethink database](http://segmentfault.com/blog/fxp/1190000000723045)
 - [Firebase很酷，来部署一个自己的吧](https://cnodejs.org/topic/51f0edf7f4963ade0e082c19)
 - [实时Javascript开发框架Clouda、Meteor、Firebase对比](http://blog.csdn.net/justfrozen/article/details/12716669)
 
