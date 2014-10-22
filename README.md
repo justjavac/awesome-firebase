@@ -15,7 +15,7 @@ Firebase 是一个数据同步的云服务，不同于 Dropbox 的「文件」�
 
 ## Firebase替代品-实时相关开源项目
 
-- [end.js是firebase的开源版本](https://github.com/demohi/end)
+- [end.js是Firebase的开源版本](https://github.com/demohi/end)
 - [socket.io是最常用构建实时应用的开源项目](http://socket.io/)
 - [meteor是前后端统一的实时框架](http://www.meteor.com)
 - [sails- Realtime MVC Framework for Node.js](https://github.com/balderdashy/sails)
