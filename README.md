@@ -19,5 +19,16 @@ Firebase 相关文章的索引。
 ## 工具
 
 - [Firepad](http://www.firepad.io/) 一个基于 Firebase 数据库平台构建的编辑器，可以实时多人协作编辑
+- [firebase-tools](https://github.com/firebase/firebase-tools) Firebase 命令行工具
+- [grunt-firebase](https://github.com/assemble/grunt-firebase) 用来更新 firebase 数据的 Grunt 任务
 
+## 项目
 
+- [angularfire](https://github.com/firebase/angularfire) AngularJS bindings for Firebase
+- [firechat](https://github.com/firebase/firechat) 基于 Firebase 的实时聊天系统
+- [emberfire](https://github.com/firebase/emberfire) Official Ember Data adapter for Firebase
+- [firereader](https://github.com/firebase/firereader) 基于 Firebase 和 AngularJS 的 RSS 阅读器
+- [firebase-ruby](https://github.com/oscardelben/firebase-ruby) Ruby wrapper for Firebase
+- [reactfire](https://github.com/firebase/reactfire) ReactJS mixin for easy Firebase integration
+- [python-firebase](https://github.com/ozgur/python-firebase) Python 实现的Firebase REST API
+- [realtime-hacker-news](https://github.com/dstaley/realtime-hacker-news) 基于 Firebase 实现的实时 Hacker News
