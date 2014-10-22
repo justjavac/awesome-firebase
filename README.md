@@ -3,9 +3,7 @@ Awesome Firebase
 
 Firebase 相关文章的索引。
 
-[Firebase 官方网站](https://www.firebase.com)
-
-Firebase 是一个数据同步的云服务，不同于 Dropbox 的「文件」，Firebase 同步的是「数据」，服务对象是网站开发者，帮助他们开发具有「实时」（Real-Time）特性的应用。
+[Firebase](https://www.firebase.com) 是一个数据同步的云服务，不同于 Dropbox 的「文件」，Firebase 同步的是「数据」，服务对象是网站开发者，帮助他们开发具有「实时」（Real-Time）特性的应用。
 
 开发者只需引用一个 API 库文件就可以使用标准 REST API 的各种接口对数据进行读写操作，只需编写 HTML＋CSS＋JavaScrip 前端代码，不需要服务器端代码（如需整合，也及其简单），省下的时间可以让开发者专注于开发应用功能，完善设计和体验，解决用户的实际问题。
 
