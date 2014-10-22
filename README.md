@@ -1,7 +1,7 @@
 Awesome Firebase
 ================
 
-Firebase 相关文章的索引。
+最近谷歌收购Firebase的新闻又将Firebase拉入了人们的视野，于是我做了这个 github 项目。
 
 [Firebase](https://www.firebase.com) 是一个数据同步的云服务，不同于 Dropbox 的「文件」，Firebase 同步的是「数据」，服务对象是网站开发者，帮助他们开发具有「实时」（Real-Time）特性的应用。
 
