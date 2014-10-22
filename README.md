@@ -11,6 +11,10 @@ Firebase 相关文章的索引。
 - [Firebase很酷，来部署一个自己的吧](https://cnodejs.org/topic/51f0edf7f4963ade0e082c19)
 - [实时Javascript开发框架Clouda、Meteor、Firebase对比](http://blog.csdn.net/justfrozen/article/details/12716669)
 
+## 视频
+
+- [在Xcode中使用Firebase](https://player.vimeo.com/video/62208736)
+
 ## 资讯
 
 - [创业公司Firebase提供实时数据后端，让你使用JavaScript就能创建高品质数据驱动的动态网站](http://www.36kr.com/p/102056.html)
