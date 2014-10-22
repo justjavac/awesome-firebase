@@ -20,6 +20,7 @@ Firebase 相关文章的索引。
 - [创业公司Firebase提供实时数据后端，让你使用JavaScript就能创建高品质数据驱动的动态网站](http://www.36kr.com/p/102056.html)
 - [有了Firebase，打造應用程式好簡單](http://wired.tw/2012/05/23/firebase/index.html)
 - [Firebase获560万美元A轮融资 投资方为USV和Flybridge](http://news.pedaily.cn/201306/20130621350228.shtml)
+- [谷歌收购 Firebase ，更看重程序员市场](http://www.oschina.net/news/56342/google-buy-firebase)
 
 
 ## 工具
