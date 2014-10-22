@@ -18,6 +18,7 @@ Firebase 相关文章的索引。
 ## 资讯
 
 - [创业公司Firebase提供实时数据后端，让你使用JavaScript就能创建高品质数据驱动的动态网站](http://www.36kr.com/p/102056.html)
+- [有了Firebase，打造應用程式好簡單](http://wired.tw/2012/05/23/firebase/index.html)
 
 
 ## 工具
