@@ -13,6 +13,13 @@ Firebase 是一个数据同步的云服务，不同于 Dropbox 的「文件」�
 
 或许我翻译的另一个项目你也敢兴趣：[用 JSON 构建 API 的标准指南](https://github.com/justjavac/json-api-zh_CN)
 
+## Firebase替代品-实时相关开源项目
+
+- [end.js是Firebase的开源版本](https://github.com/demohi/end)
+- [socket.io是最常用构建实时应用的开源项目](http://socket.io/)
+- [meteor是前后端统一的实时框架](http://www.meteor.com)
+- [sails- Realtime MVC Framework for Node.js](https://github.com/balderdashy/sails)
+
 ## 文章
 
 - [用AngularJS和Firebase制作一个实时投票应用](http://www.html-js.com/article/Using-Angular-to-develop-web-application-with-AngularJS-and-Firebase-to-produce-a-real-time-polling-application)
