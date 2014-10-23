@@ -28,6 +28,7 @@ Awesome Firebase
 ## 视频
 
 - [在Xcode中使用Firebase](https://player.vimeo.com/video/62208736)
+- [Anant Narayanan - Building Realtime Apps With Firebase and Angular - NG-Conf 2014](https://www.youtube.com/watch?v=e4yUTkva_FM) YouTube（需翻墙）
 
 ## 资讯
 
